@@ -1,0 +1,196 @@
+ compilar.cmd
+jcolonia.daw2023.menuIdeal.ControlVista
+---
+
+Verificando «lib\junit-platform-console-standalone-1.10.2.jar» …
+
+Picked up JAVA_TOOL_OPTIONS: -Dfile.encoding=UTF-8
+
+ El volumen de la unidad D es DATOS_MAÑANA
+ El número de serie del volumen es: B42B-91C5
+
+ Directorio de D:\PROG\MisProyectos\Aplicacion19042024\bin\jcolonia\daw2023\menuIdeal
+
+29/04/2024  10:02             3.352 AccesoArchivos.class
+29/04/2024  10:02             7.293 Comida.class
+29/04/2024  10:02             7.537 ControlVista.class
+29/04/2024  10:02             4.669 Dieta.class
+29/04/2024  10:02             4.990 TestComida.class
+29/04/2024  10:02             9.144 VistaAltas.class
+29/04/2024  10:02            10.974 VistaGeneral.class
+29/04/2024  10:02             2.138 VistaLista.class
+               8 archivos         50.097 bytes
+
+     Total de archivos en la lista:
+               8 archivos         50.097 bytes
+               0 dirs  134.698.881.024 bytes libres
+
+Presione una tecla para continuar . . .
+
+ ejecutar.cmd
+.ControlVista
+---
+
+Picked up JAVA_TOOL_OPTIONS: -Dfile.encoding=UTF-8
+ _          _
+                       (c)___c____(c)
+                        \ ........../
+                         |.........|
+                          |.......|
+                          |.......|
+                          |=======|
+                          |=======|
+                         __o)""""::?
+                        C__    c)::;
+                           >--   ::     /\
+                           (____/      /__\
+                           } /""|    |##|
+                __/       (|V ^ )\    |##|
+                o | _____/ |#/ / |     |##|
+       @        o_|}|_____/|/ /  |     |##|
+                      _____/ /   |     ~!!~
+      ======ooo}{|______)#   |         /`'\
+  ~~~~ ;    ;          ###---|8        ""
+____;_____;____        ###====         /:|\
+(///0///@///@///)       ###@@@@|
+|~~~~~~~~~~~~~~~|       ###@@@@|
+ \             /        ###@@@@|                       +
+  \___________/         ###xxxxx             /\      //
+   H H   H  H          ###|| |               /  \    //
+   H H   H  H           | || |              /____\  /~_^_
+   H H   H  H           C |C |             _|@@|_ /__|#|_
+   H H   H  H            || ||            /_|@@|_/___|#|/|
+v    \/   H(o) (o) H            || ::   |:::::::::::::|#|
+~    ~~  (o)      (o)        Ccc__)__)   |Daniel Díaz  |#|
+ \|/      ~   @* & ~                    |:::::::::::::|/  \|/
+  ~           \|/        !!        \ !/  ~~~~~~~~~~~~~    ~~~
+              ~~~        ~~         ~~           ~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+╔===============================╗
+║           SmartEat            ║
+╚===============================╝
+<<1>> -> Menú de añadir/eliminar
+<<2>> -> Menú de listar
+<<3>> -> Menú de tratado de archivos
+<<4>> -> Acerca de la aplicación
+<!0!> -> Salir
+==================================
+Elija una opción: 1
+
+***************
+* Menú añadir *
+***************
+<<1>> -> Añadir plato
+<<2>> -> Añadir comida semanal
+<=3=> -> Volver
+<!0!> -> Salir
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Elija una opción: 2
+Introduzca los datos (sino come esa comida escriba dele 'enter'
+Nombre del plato: Sexo
+Desayuno: Rabo de toro
+Almuerzo:
+Comida: Lentejas con chorizo
+Merienda:
+Cena: Pizza
+-- Comida diaria agregada con éxito--
+¿Quiere continuar añadiendo? (s/n): n
+
+========================
+====<<Menú listado>>====
+========================
+<<1>> -> Mostrar lista comida con ingredientes
+<<2>> -> Mostrar lista comida semanal
+<=3=> -> Volver
+<!0!> -> Salir
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Elija una opción: 2
+--<< Listado de comidas: >>--
+<<Lunes>>:
+Desayuno -> Tortilla de claras con espinacas y avena
+Almuerzo -> Pollo a la plancha con arroz integral y verduras al vapor
+Comida ---> Filete de ternera a la parrilla con patatas asadas y espárragos
+Merienda -> Yogur griego con nueces y miel
+Cena  ----> Salmón al horno con espárragos y quinoa
+
+<<Martes>>:
+Desayuno -> Batido de proteínas con frutas y avena
+Almuerzo -> Pasta integral con salsa de tomate y albóndigas de pavo
+Comida ---> Pechuga de pollo al horno con boniato y brócoli
+Merienda -> Batido de proteínas con plátano
+Cena  ----> Revuelto de tofu con verduras
+
+<<Miércoles>>:
+Desayuno -> Tostadas integrales con aguacate y huevo
+Almuerzo -> Salmón al horno con quinoa y brócoli
+Comida ---> Pescado blanco con puré de calabaza y espinacas salteadas
+Merienda -> Huevo cocido con zanahorias baby
+Cena  ----> Ensalada de salmón ahumado con aguacate y espinacas
+
+<<Jueves>>:
+Desayuno -> Cereal integral con leche y plátano
+Almuerzo -> Ensalada de atún con garbanzos y aguacate
+Comida ---> Arroz integral con tofu al curry y verduras al wok
+Merienda -> Batido de proteínas con avena y frutas
+Cena  ----> Ternera salteada con verduras al wok
+
+<<Viernes>>:
+Desayuno -> Panqueques de avena con miel y frutas
+Almuerzo -> Carne magra con batata asada y espinacas salteadas
+Comida ---> Estofado de carne magra con garbanzos y verduras
+Merienda -> Queso cottage con tostadas de centeno
+Cena  ----> Ensalada de pollo a la parrilla con quinoa y vegetales
+
+Cualquier tecla para ver el resto de las comidas:
+
+ _          _
+                       (c)___c____(c)
+                        \ ........../
+                         |.........|
+                          |.......|
+                          |.......|
+                          |=======|
+                          |=======|
+                         __o)""""::?
+                        C__    c)::;
+                           >--   ::     /\
+                           (____/      /__\
+                           } /""|    |##|
+                __/       (|V ^ )\    |##|
+                o | _____/ |#/ / |     |##|
+       @        o_|}|_____/|/ /  |     |##|
+                      _____/ /   |     ~!!~
+      ======ooo}{|______)#   |         /`'\
+  ~~~~ ;    ;          ###---|8        ""
+____;_____;____        ###====         /:|\
+(///0///@///@///)       ###@@@@|
+|~~~~~~~~~~~~~~~|       ###@@@@|
+ \             /        ###@@@@|                       +
+  \___________/         ###xxxxx             /\      //
+   H H   H  H          ###|| |               /  \    //
+   H H   H  H           | || |              /____\  /~_^_
+   H H   H  H           C |C |             _|@@|_ /__|#|_
+   H H   H  H            || ||            /_|@@|_/___|#|/|
+v    \/   H(o) (o) H            || ::   |:::::::::::::|#|
+~    ~~  (o)      (o)        Ccc__)__)   |Daniel Díaz  |#|
+ \|/      ~   @* & ~                    |:::::::::::::|/  \|/
+  ~           \|/        !!        \ !/  ~~~~~~~~~~~~~    ~~~
+              ~~~        ~~         ~~           ~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+╔===============================╗
+║           SmartEat            ║
+╚===============================╝
+<<1>> -> Menú de añadir/eliminar
+<<2>> -> Menú de listar
+<<3>> -> Menú de tratado de archivos
+<<4>> -> Acerca de la aplicación
+<!0!> -> Salir
+==================================
+Elija una opción: 0
+¿Estás seguro de querer salir? (s/n): s
+-----------------------------------
+-- PROGRAMA FINALIZADO CON ÉXITO --
+-----------------------------------
+Presione una tecla para continuar . . .

@@ -1,0 +1,3 @@
+1;Huevo frito;Huevo,Aceite,Sal;Calentar el aceite en una sartén,Romper el huevo en la sartén con cuidado,Cocinar el huevo hasta que la clara esté firme y la yema esté a su gusto;2024-04-29
+1;Sándwich;Pan de molde,Jamón,Queso,Lechuga,Tomate,Mayonesa;Untar la mayonesa en una rebanada de pan,Colocar las lonchas de jamón y queso,Agregar la lechuga y el tomate,Cubrir con la otra rebanada de pan;2024-04-29
+1;Solomillo;Solomillo de ternera,Sal,Pimienta,Aceite de oliva;Calentar el aceite en una sartén,Condimentar el solomillo con sal y pimienta,Dorar el solomillo por ambos lados en la sartén caliente,Cocinar a fuego medio hasta que esté hecho al punto deseado;2024-04-29
